@@ -1,0 +1,37 @@
+name: chatify
+description: A real-time chat application.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP package
+  http: ^1.1.0
+
+  # Firebase packages
+  firebase_core: ^2.25.0
+  cloud_firestore: ^4.15.0
+  firebase_auth: ^4.17.4
+  firebase_messaging: ^14.8.0
+  firebase_database: 10.5.7   # <-- Added Realtime Database
+
+  # Utilities
+  intl: ^0.19.0
+  uuid: ^4.4.0
+
+  # Icons
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true

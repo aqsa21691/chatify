@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "324505509004",
+    "firebase_url": "https://synctalk-001-default-rtdb.firebaseio.com",
+    "project_id": "synctalk-001",
+    "storage_bucket": "synctalk-001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324505509004:android:03e37afb9a6907ab88afa9",
+        "android_client_info": {
+          "package_name": "com.example.chatify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKUIpJotS4arwc9r4Sz3UTd-VypEf76Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324505509004:android:23f1f189b4703c2288afa9",
+        "android_client_info": {
+          "package_name": "com.example.synctalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKUIpJotS4arwc9r4Sz3UTd-VypEf76Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
